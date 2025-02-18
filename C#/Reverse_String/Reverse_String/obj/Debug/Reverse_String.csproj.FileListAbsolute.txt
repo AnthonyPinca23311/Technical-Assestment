@@ -1,0 +1,7 @@
+C:\Users\pinca\source\repos\Reverse_String\Reverse_String\bin\Debug\Reverse_String.exe.config
+C:\Users\pinca\source\repos\Reverse_String\Reverse_String\bin\Debug\Reverse_String.exe
+C:\Users\pinca\source\repos\Reverse_String\Reverse_String\bin\Debug\Reverse_String.pdb
+C:\Users\pinca\source\repos\Reverse_String\Reverse_String\obj\Debug\Reverse_String.csproj.AssemblyReference.cache
+C:\Users\pinca\source\repos\Reverse_String\Reverse_String\obj\Debug\Reverse_String.csproj.CoreCompileInputs.cache
+C:\Users\pinca\source\repos\Reverse_String\Reverse_String\obj\Debug\Reverse_String.exe
+C:\Users\pinca\source\repos\Reverse_String\Reverse_String\obj\Debug\Reverse_String.pdb

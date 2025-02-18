@@ -1,0 +1,7 @@
+C:\Users\pinca\source\repos\Pyramid_Pattern\Pyramid_Pattern\bin\Debug\Pyramid_Pattern.exe.config
+C:\Users\pinca\source\repos\Pyramid_Pattern\Pyramid_Pattern\bin\Debug\Pyramid_Pattern.exe
+C:\Users\pinca\source\repos\Pyramid_Pattern\Pyramid_Pattern\bin\Debug\Pyramid_Pattern.pdb
+C:\Users\pinca\source\repos\Pyramid_Pattern\Pyramid_Pattern\obj\Debug\Pyramid_Pattern.csproj.AssemblyReference.cache
+C:\Users\pinca\source\repos\Pyramid_Pattern\Pyramid_Pattern\obj\Debug\Pyramid_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\pinca\source\repos\Pyramid_Pattern\Pyramid_Pattern\obj\Debug\Pyramid_Pattern.exe
+C:\Users\pinca\source\repos\Pyramid_Pattern\Pyramid_Pattern\obj\Debug\Pyramid_Pattern.pdb

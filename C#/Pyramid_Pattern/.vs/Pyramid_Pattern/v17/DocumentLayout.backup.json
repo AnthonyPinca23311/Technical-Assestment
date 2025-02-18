@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pinca\\source\\repos\\Pyramid_Pattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26BA547A-29E8-4E08-886B-5987DE576C93}|Pyramid_Pattern\\Pyramid_Pattern.csproj|c:\\users\\pinca\\source\\repos\\pyramid_pattern\\pyramid_pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26BA547A-29E8-4E08-886B-5987DE576C93}|Pyramid_Pattern\\Pyramid_Pattern.csproj|solutionrelative:pyramid_pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pinca\\source\\repos\\Pyramid_Pattern\\Pyramid_Pattern\\Program.cs",
+              "RelativeDocumentMoniker": "Pyramid_Pattern\\Program.cs",
+              "ToolTip": "C:\\Users\\pinca\\source\\repos\\Pyramid_Pattern\\Pyramid_Pattern\\Program.cs",
+              "RelativeToolTip": "Pyramid_Pattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T02:25:53.361Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
